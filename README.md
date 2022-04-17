@@ -1,11 +1,10 @@
 ## Hi there <a href="https://leeboo.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![wechat](https://img.shields.io/badge/blog-leeboo.live-blueviolet.svg)&nbsp;&nbsp;&nbsp;&nbsp;![wechat](https://img.shields.io/badge/微信公众号-薄荷车站-succes.svg)&nbsp;&nbsp;&nbsp;&nbsp;![Profile View Counter](https://komarev.com/ghpvc/?username=imboni)
 
 <p align="center">
-  <a href="https://leeboo.live/"><img src="https://img.shields.io/badge/blog-leeboo.live-blueviolet.svg" alt="blog"></a>
+  <a href="https://leeboo.live/" target="_blank"><img src="https://img.shields.io/badge/blog-leeboo.live-blueviolet.svg" alt="blog"></a>
   <a href="#"><img src="https://img.shields.io/badge/微信公众号-薄荷车站-succes.svg" alt="公众号"></a>
-  <a href="https://github.com/imboni"><img src="https://komarev.com/ghpvc/?username=imboni" alt="Profile View Counter"></a>
+  <a href="https://github.com/imboni" target="_blank"><img src="https://komarev.com/ghpvc/?username=imboni" alt="Profile View Counter"></a>
 </p>
 
 
