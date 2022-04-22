@@ -1,4 +1,4 @@
-## Hi there <a href="https://leeboo.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<h2 style="margin: 0 auto;"> Hi there <a href="https://leeboo.live/"  target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
 
 
 <p align="center">
