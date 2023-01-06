@@ -9,12 +9,6 @@
 
 
 我是Boni，一名刚入行的前端开发工程师。
-
-
-**最新博文**
-
-- [git命令式常规使用总结](https://leeboo.live/index.php/archives/6/)
-- [浏览器基础](https://leeboo.live/index.php/archives/3/)
   
 
 
