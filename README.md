@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://imboni.cn/" target="_blank"><img src="https://img.shields.io/badge/blog-leeboo.live-blueviolet.svg" alt="blog"></a>
+  <a href="https://imboni.cn/" target="_blank"><img src="https://img.shields.io/badge/blog-imboni.cn-blueviolet.svg" alt="blog"></a>
   <a href="#"><img src="https://img.shields.io/badge/微信公众号-Undefined Stack-succes.svg" alt="公众号"></a>
   <a href="https://github.com/imboni" target="_blank"><img src="https://komarev.com/ghpvc/?username=imboni" alt="Profile View Counter"></a>
 </p>
